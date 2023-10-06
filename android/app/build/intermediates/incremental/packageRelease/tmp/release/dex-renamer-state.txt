@@ -1,0 +1,4 @@
+#Sun Oct 01 17:28:05 PKT 2023
+base.0=D\:\\React_Native\\Boiler_Plate\\Boiler_plate\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
